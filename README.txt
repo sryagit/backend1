@@ -23,7 +23,9 @@ create index.js file
           console.log(`Server is running on http://localhost:${PORT}`);
         });
   }
-  
+
+node index.js
+
 git init
 git add .
 git commit -m "Initial commit"
